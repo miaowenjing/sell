@@ -1,7 +1,11 @@
 <template>
   <div id="app">
-    <Home></Home>
-
+   
+      <router-link to="/home" class="content_title_style">余额说明</router-link>
+      <router-link to="/about" class="content_title_style">about</router-link>
+      <transition name="fade" mode="out-in">
+        <router-view class="view"></router-view>
+      </transition>
   </div>
 </template>
 
