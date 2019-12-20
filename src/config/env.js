@@ -25,3 +25,5 @@ export {
 	routerMode,
 	imgBaseUrl,
 }
+
+正式环境:http:123456789.wwww.com@iddididididididi
