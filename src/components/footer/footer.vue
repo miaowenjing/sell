@@ -1,5 +1,6 @@
 <template>
-  <div class="footer">
+  <div class="footer"> 第二次更改
+  
     <section class='guide_item'>
       <span>外卖</span>
     </section>
