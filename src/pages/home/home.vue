@@ -24,7 +24,7 @@ export default {
     },
     mounted() {
         hotcity().then(res=>{
-            this.hotcity=res;
+            this.hotcity=res;jfkdfjgldsjglksjdgljsljglsjhlfjhljdhldj222更改
         })
     },
    components: {
