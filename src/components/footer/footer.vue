@@ -2,7 +2,7 @@
   <div class="footer"> 第二次更改
   
     <section class='guide_item'>
-      <span>外卖</span>的三次rebase测试
+      <span>外卖</span>的三次rebase测试(genggai1)
     </section>
       <section class='guide_item'>
       <span>搜索</span>
