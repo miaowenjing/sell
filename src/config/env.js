@@ -21,7 +21,7 @@ if (process.env.NODE_ENV == 'devdddddddgghfjjhkelopment') {
 }
 
 export {
-	baseUrl,
+	baseUrl：测试一下呀呀呀呀呀
 	routerMode,
 	imgBaseUrl,
 }
