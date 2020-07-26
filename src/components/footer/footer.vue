@@ -1,5 +1,5 @@
 <template>
-  <div class="footer"> 第二次更改
+  <div class="footer">merge 一下呀哈哈哈哈哈哈
   
     <section class='guide_item'>
       <span>外卖</span>的三次rebase测试(genggai1)
