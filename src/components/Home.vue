@@ -6,7 +6,7 @@
 
 <script>
 export default {
- name:'About'
+ name:'About'更改一下呀呀呀呀
 }
 </script>
 
