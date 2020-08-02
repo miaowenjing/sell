@@ -20,10 +20,10 @@ if (process.env.NODE_ENV == 'devdddddddgghfjjhkelopment') {
     imgBaseUrl = '//elm.cangdu.org/img/';
 }
 
-export {
-	baseUrl：测试一下呀呀呀呀呀
-	routerMode,
-	imgBaseUrl,
-}
-
-正式环境:http:123456789.wwww.com@iddididididididi
+// export {
+// 	baseUrl,
+// 	routerMode,
+// 	imgBaseUrl,
+// }
+// 正式环境:http:123456789.wwww.com@iddididididididi 
+staging环境:http:123456789.wwww.com@iddididididididi 
