@@ -5,7 +5,7 @@
       <router-link to="/about" class="content_title_style">about</router-link>
 
 
-      pull123
+      pull12323455
       <transition name="fade" mode="out-in">
         <router-view class="view"></router-view>
       </transition>
